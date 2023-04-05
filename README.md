@@ -1,11 +1,11 @@
-About causalnex
-===============
+About causalnex-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/causalnex-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/quantumblacklabs/causalnex
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/causalnex-feedstock/blob/main/LICENSE.txt)
 
 Summary: Toolkit for causal reasoning (Bayesian Networks / Inference)
 
