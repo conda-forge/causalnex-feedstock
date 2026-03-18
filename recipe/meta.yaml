@@ -1,5 +1,5 @@
 {% set name = "causalnex" %}
-{% set version = "0.11.2" %}
+{% set version = "0.12.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/causalnex-{{ version }}.tar.gz
-  sha256: 99f96ab5595404622a62e916faae0a2a2b1ac9142213b9e9d8892f8d7b993b11
+  sha256: 6b6d69e7fcdfb234e28d4ed41deac3935810f0c74d4f629eae1d72789f087437
 
 build:
   skip: true  # [py>=39 or py2k or win]
